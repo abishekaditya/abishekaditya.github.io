@@ -20,7 +20,7 @@ body{
     }
 
     #middle{
-      margin: 22vh 0 0 20px;
+      margin: 22vh 0 0 0;
     }
     .inner {
     display: table;
