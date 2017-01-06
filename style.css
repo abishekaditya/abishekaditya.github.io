@@ -3,17 +3,18 @@ body{
     font-family: 'Cantarell', sans-serif;
     color: #FFFFFF;
     font-size: 1em;
+    line-height: 140%;
     }
 
     li{
         margin: 10px 0;
     }
     .title{
-      font-family: 'Rancho';
+      font-family: 'Rancho',cursive;
       font-size: 2.6rem;
     }
     .subtitle{
-      font-family: 'Lato';
+      font-family: 'Lato',sans-serif;
       font-weight: bold;
       color: #ff372d ;
       font-size: 1.2rem;
@@ -53,18 +54,18 @@ body{
       animation-iteration-count: infinite;
     }
     figure figcaption {
-        font-family: 'Rancho';
+        font-family: 'Rancho',cursive;
         font-size: 2.5em;
         text-align: center;
     }
     #clear{
-      font-family: 'Lato';
+      font-family: 'Lato',sans-serif;
       font-size: 1.1em;
       margin-top: 4px;
     }
     .pure-u-lg-1-4{
-      padding-left: 4vw;
-      padding-right: 4vw;
+      margin-left: 4vw;
+      margin-right: 4vw;
     }
  a:link {
   color: #ff372d;
